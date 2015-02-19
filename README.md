@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Joe Naylor, here. Just learning about some version control options like GitHub.
